@@ -1,2 +1,13 @@
 # mapviewer-grid-combine
 ai assisted python script that combines all downloaded png/jpg map tiles from mapviewer and combine into one big png
+
+- works with varying file dimensions
+
+How to use:
+ put all image files with map tiles into one folder and the python script, run the python script
+
+Requirements:
+- python 3
+- pip install pillow
+
+This is an assist tool for mapviewer, download link: https://ln5.sync.com/dl/292676580/hk85yr3h-43gfzpgn-wpur7ht7-bnmak9w2/view/default/9805173310002
