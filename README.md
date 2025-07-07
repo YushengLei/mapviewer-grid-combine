@@ -2,6 +2,7 @@
 ai assisted python script that combines all downloaded png map tiles from mapviewer into tacview and combine into one big png
 
 - works with varying file dimensions
+- picture file names must be in the format (North/South)(degrees)(East/West)(degrees).png. Example: N50E050.png
 
 How to use:
  put all image files with map tiles into one folder and the python script, run the python script
